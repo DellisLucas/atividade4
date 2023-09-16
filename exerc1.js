@@ -11,8 +11,7 @@ function encontrarMaior(a, b, c) {
       return c;
     }
   }
-  
-  // Exemplo de uso:
+
   const num1 = Number(prompt("Digite o primeiro número: "))
   const num2 = Number(prompt("Digite o segundo número: "))
   const num3 = Number(prompt("Digite o terceiro número: "))
