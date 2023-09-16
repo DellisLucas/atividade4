@@ -36,5 +36,4 @@ function encontrarMaiorMenor() {
   console.log("Menor valor:", menor);
 }
 
-// Chame a função para começar a inserir números e encontrar o maior e o menor
 encontrarMaiorMenor();
